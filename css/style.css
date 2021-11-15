@@ -252,6 +252,10 @@ body {
   margin-right: 30px;
 }
 
+.section-four-content {
+  padding: 30px;
+}
+
 .section-four-title {
   font-weight: 700;
   font-size: 36px;
@@ -259,7 +263,6 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--header-text-color);
-  padding-bottom: 50px;
 }
 
 .team-photo {
@@ -273,6 +276,7 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--header-text-color);
+  margin-bottom: 10px;
 }
 
 .section-four-text {
@@ -404,7 +408,6 @@ body {
   margin-left: var(--projects-list-gap);
   margin-top: var(--projects-list-gap);
   background: #ffffff;
-  border: 1px solid #eeeeee;
 }
 
 /* .projects-item:nth-child(3n + 3) {
@@ -413,6 +416,7 @@ body {
 
 .projects-content {
   padding: 20px 24px;
+  border: 1px solid #eeeeee;
 }
 
 .projects-title {
